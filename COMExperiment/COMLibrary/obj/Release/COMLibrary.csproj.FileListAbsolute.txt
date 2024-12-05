@@ -1,0 +1,6 @@
+D:\develop\CSProgram\Windows\COMExperiment\COMLibrary\bin\Release\COMLibrary.dll
+D:\develop\CSProgram\Windows\COMExperiment\COMLibrary\bin\Release\COMLibrary.pdb
+D:\develop\CSProgram\Windows\COMExperiment\COMLibrary\obj\Release\COMLibrary.csproj.AssemblyReference.cache
+D:\develop\CSProgram\Windows\COMExperiment\COMLibrary\obj\Release\COMLibrary.csproj.CoreCompileInputs.cache
+D:\develop\CSProgram\Windows\COMExperiment\COMLibrary\obj\Release\COMLibrary.dll
+D:\develop\CSProgram\Windows\COMExperiment\COMLibrary\obj\Release\COMLibrary.pdb

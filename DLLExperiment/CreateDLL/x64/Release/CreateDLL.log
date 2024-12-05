@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MyFunctions.cpp
+    正在创建库 D:\develop\CSProgram\Windows\DLLExperiment\x64\Release\CreateDLL.lib 和对象 D:\develop\CSProgram\Windows\DLLExperiment\x64\Release\CreateDLL.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CreateDLL.vcxproj -> D:\develop\CSProgram\Windows\DLLExperiment\x64\Release\CreateDLL.dll
