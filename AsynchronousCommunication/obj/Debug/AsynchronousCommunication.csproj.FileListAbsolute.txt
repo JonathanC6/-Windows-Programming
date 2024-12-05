@@ -1,0 +1,11 @@
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\bin\Debug\AsynchronousCommunication.exe.config
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\bin\Debug\AsynchronousCommunication.exe
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\bin\Debug\AsynchronousCommunication.pdb
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\obj\Debug\AsynchronousCommunication.csproj.AssemblyReference.cache
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\obj\Debug\AsynchronousCommunication.csproj.SuggestedBindingRedirects.cache
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\obj\Debug\AsynchronousCommunication.Properties.Resources.resources
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\obj\Debug\AsynchronousCommunication.csproj.GenerateResource.cache
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\obj\Debug\AsynchronousCommunication.csproj.CoreCompileInputs.cache
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\obj\Debug\AsynchronousCommunication.exe
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\obj\Debug\AsynchronousCommunication.pdb
+D:\develop\CSProgram\Windows\ProcessCommunication\AsynchronousCommunication\obj\Debug\AsynchronousCommunication.AsynchronousForm.resources

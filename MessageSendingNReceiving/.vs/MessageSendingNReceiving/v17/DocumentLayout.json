@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C29B49E-1100-45B6-8037-9158CC8C5129}|CopyDataStruct\\CopyDataStruct.csproj|d:\\develop\\csprogram\\windows\\messagesendingnreceiving\\copydatastruct\\messagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C29B49E-1100-45B6-8037-9158CC8C5129}|CopyDataStruct\\CopyDataStruct.csproj|solutionrelative:copydatastruct\\messagetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3230965C-4791-4A37-BEEE-04C4914BABFE}|ReceiverB\\ReceiverB.csproj|d:\\develop\\csprogram\\windows\\messagesendingnreceiving\\receiverb\\receiverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3230965C-4791-4A37-BEEE-04C4914BABFE}|ReceiverB\\ReceiverB.csproj|solutionrelative:receiverb\\receiverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\receiverc\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|solutionrelative:receiverc\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5536931-06B0-4428-B9E9-9103CE08CBF7}|SenderA\\SenderA.csproj|D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\sendera\\senderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5536931-06B0-4428-B9E9-9103CE08CBF7}|SenderA\\SenderA.csproj|solutionrelative:sendera\\senderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5536931-06B0-4428-B9E9-9103CE08CBF7}|SenderA\\SenderA.csproj|d:\\develop\\csprogram\\windows\\messagesendingnreceiving\\sendera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5536931-06B0-4428-B9E9-9103CE08CBF7}|SenderA\\SenderA.csproj|solutionrelative:sendera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\receiverc\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|solutionrelative:receiverc\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\receiverc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|solutionrelative:receiverc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5536931-06B0-4428-B9E9-9103CE08CBF7}|SenderA\\SenderA.csproj|D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\sendera\\senderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5536931-06B0-4428-B9E9-9103CE08CBF7}|SenderA\\SenderA.csproj|solutionrelative:sendera\\senderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\receiverc\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|solutionrelative:receiverc\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\receiverc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F4C9D0-690C-4576-9C74-B38833DFC196}|ReceiverC\\ReceiverC.csproj|solutionrelative:receiverc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiverForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverB\\ReceiverForm.cs",
+              "RelativeDocumentMoniker": "ReceiverB\\ReceiverForm.cs",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverB\\ReceiverForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ReceiverB\\ReceiverForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:01:05.08Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageTypes.cs",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\CopyDataStruct\\MessageTypes.cs",
+              "RelativeDocumentMoniker": "CopyDataStruct\\MessageTypes.cs",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\CopyDataStruct\\MessageTypes.cs",
+              "RelativeToolTip": "CopyDataStruct\\MessageTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:00:44.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\SenderA\\Program.cs",
+              "RelativeDocumentMoniker": "SenderA\\Program.cs",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\SenderA\\Program.cs",
+              "RelativeToolTip": "SenderA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:34:55.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SenderForm.cs",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\SenderA\\SenderForm.cs",
+              "RelativeDocumentMoniker": "SenderA\\SenderForm.cs",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\SenderA\\SenderForm.cs",
+              "RelativeToolTip": "SenderA\\SenderForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:34:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SenderForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\SenderA\\SenderForm.cs",
+              "RelativeDocumentMoniker": "SenderA\\SenderForm.cs",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\SenderA\\SenderForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SenderA\\SenderForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:34:38.718Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\App.xaml",
+              "RelativeDocumentMoniker": "ReceiverC\\App.xaml",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\App.xaml",
+              "RelativeToolTip": "ReceiverC\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T15:13:42.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ReceiverC\\MainWindow.xaml",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\MainWindow.xaml",
+              "RelativeToolTip": "ReceiverC\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T15:13:46.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ReceiverC\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ReceiverC\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-18T15:13:37.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReceiverC\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ReceiverC\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-18T15:13:24.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ReceiverC\\App.xaml.cs",
+              "ToolTip": "D:\\develop\\CSProgram\\Windows\\MessageSendingNReceiving\\ReceiverC\\App.xaml.cs",
+              "RelativeToolTip": "ReceiverC\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:13:19.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

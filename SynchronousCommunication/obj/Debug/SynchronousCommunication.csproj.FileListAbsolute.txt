@@ -1,0 +1,11 @@
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\bin\Debug\SynchronousCommunication.exe.config
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\bin\Debug\SynchronousCommunication.exe
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\bin\Debug\SynchronousCommunication.pdb
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\obj\Debug\SynchronousCommunication.csproj.AssemblyReference.cache
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\obj\Debug\SynchronousCommunication.csproj.SuggestedBindingRedirects.cache
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\obj\Debug\SynchronousCommunication.Properties.Resources.resources
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\obj\Debug\SynchronousCommunication.csproj.GenerateResource.cache
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\obj\Debug\SynchronousCommunication.csproj.CoreCompileInputs.cache
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\obj\Debug\SynchronousCommunication.exe
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\obj\Debug\SynchronousCommunication.pdb
+D:\develop\CSProgram\Windows\ProcessCommunication\SynchronousCommunication\obj\Debug\SynchronousCommunication.SynchronousForm.resources
